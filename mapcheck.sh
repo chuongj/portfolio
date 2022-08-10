@@ -5,8 +5,7 @@
 #SBATCH --cpus-per-task=1
 #SBATCH --mem=2GB
 #SBATCH --array=1-105
-#SBATCH --mail-type=END
-#SBATCH --mail-user=ga824@nyu.edu
+
 
 
 ##set variables 
